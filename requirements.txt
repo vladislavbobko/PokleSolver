@@ -1,5 +1,4 @@
 Flask==3.0.3
 flask_cors==4.0.1
-helpers==0.2.0
 pokerface==1.0.2
 undetected_chromedriver==3.5.5
