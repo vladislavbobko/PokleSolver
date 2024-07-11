@@ -1,4 +1,4 @@
-# PySampleProject
+# PokleSolver
 
 Simple bruteforce solver for [poklegame.com](https://poklegame.com).
 
