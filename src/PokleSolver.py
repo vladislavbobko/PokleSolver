@@ -3,7 +3,7 @@ from multiprocessing import Pool, current_process
 from pokerface import *
 from itertools import combinations
 
-from helpers import Stream, flatten, split_into_chunks
+from src.utils import Stream, flatten, split_into_chunks
 
 class PokleSolver:
     def __init__(self, hands = None, order = None, game_string = None) -> None:
